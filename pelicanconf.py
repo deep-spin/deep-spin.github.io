@@ -24,10 +24,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = () #None
+LINKS = None
 
 # Social widget
-SOCIAL = () #None
+SOCIAL = None
 
 DEFAULT_PAGINATION = False
 
