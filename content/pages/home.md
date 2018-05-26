@@ -36,11 +36,11 @@ This leads to serious mistakes in machine translation, such as words being dropp
 More broadly, neural networks are missing the key structural mechanisms for solving complex real-world tasks requiring deep reasoning.
 
 This project attacks these fundamental problems by bringing together deep learning and structured prediction, with a highly disruptive and cross-disciplinary approach.
-First, we will endow neural networks with a *planning mechanism* to guide structural search, letting decoders learn the optimal order by which they should operate.
+First, we will endow neural networks with a **planning mechanism** to guide structural search, letting decoders learn the optimal order by which they should operate.
 This makes a bridge with reinforcement learning and combinatorial optimization.
-Second, we will develop new ways of automatically inducing latent structure inside the network, making it more expressive, scalable and interpretable.
+Second, we will develop new ways of automatically **inducing latent structure** inside the network, making it more expressive, scalable and interpretable.
 Synergies with probabilistic inference and sparse modeling techniques will be exploited.
-To complement these two innovations, we will investigate new ways of incorporating weak supervision to reduce the need for labeled data.
+To complement these two innovations, we will investigate new ways of incorporating **weak supervision** to reduce the need for labeled data.
 
 Three highly challenging applications will serve as testbeds: **machine translation**, **quality estimation**, and **dependency parsing**.
 To maximize technological impact, this is done with collaboration with Unbabel, a start-up company in the crowd-sourcing translation industry.
