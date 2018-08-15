@@ -27,7 +27,8 @@ AUTHOR_FEED_RSS = None
 LINKS = None
 
 # Social widget
-SOCIAL = None
+SOCIAL = (('twitter', 'http://twitter.com/deep_spin'),
+          ('github', 'http://github.com/deep-spin'),)
 
 DEFAULT_PAGINATION = False
 
