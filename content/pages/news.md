@@ -1,5 +1,6 @@
 Title: News
 
+* Marcos Treviso is joining the [team](team.html) as a PhD student!
 * We have a new EMNLP paper where we propose *SparseMAP* to build dynamic computation graphs via sparse latent structure (work done in collaboration with [Claire Cardie](http://www.cs.cornell.edu/home/cardie)). Keep posted!
 * Vlad Niculae is joining the [team](team.html) as a post-doc researcher!
 * Erick Fonseca is joining the [team](team.html) as a post-doc researcher!
