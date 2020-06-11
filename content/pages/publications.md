@@ -1,5 +1,35 @@
 Title: Publications
 
+* Vlad Niculae and André F. T. Martins.  
+"LP-SparseMAP: Differentiable Relaxed Optimization for Sparse Structured Prediction."  
+International Conference on Machine Learning (ICML'20), July 2020.  
+[[pdf]]()  
+
+* Erick Fonseca and André F. T. Martins.  
+"Revisiting Higher-Order Dependency Parsers."  
+Annual Meeting of the Association for Computational Linguistics (ACL'20), July 2020.  
+[[pdf]]()  
+
+* Ben Peters and André F. T. Martins.  
+"DeepSPIN at SIGMORPHON 2020: One-Size-Fits-All Multilingual Models."  
+ACL Workshop on Computational Research in Phonetics, Phonology, and Morphology (SIGMORPHON'20), July 2020.  
+[[pdf]]()  
+
+* António Góis, Kyunghyun Cho, and André F. T. Martins.  
+"Learning Non-Monotonic Automatic Post-Editing of Translations from Human Orderings."  
+Annual Conference of the European Association for Machine Translation (EAMT'20), November 2020.  
+[[pdf]]()  
+
+* António Lopes, M. Amin Farajian, Rachel Bawden, Michael Zhang and André F. T. Martins.  
+"Document-level Neural MT: A Systematic Comparison."  
+Annual Conference of the European Association for Machine Translation (EAMT'20), November 2020.  
+[[pdf]]()  
+
+* Mathieu Blondel, André F. T. Martins, and Vlad Niculae.  
+"Learning with Fenchel-Young losses."  
+Journal of Machine Learning Research, 21 (2020) 1--69.  
+[[pdf]](http://jmlr.csail.mit.edu/papers/volume21/19-021/19-021.pdf)  
+
 * Gonçalo M. Correia, Vlad Niculae, and André F. T. Martins.  
 "Adaptively Sparse Transformers."  
 Conference on Empirical Methods in Natural Language Processing (EMNLP'19), Hong-Kong, China, November 2019. To appear.  
